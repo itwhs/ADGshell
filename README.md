@@ -116,12 +116,13 @@ crontab -e
 ### 阿里云图文教程:如何使用dns
 **先看这个教程**:[DoT/DoH接入方法](https://help.aliyun.com/document_detail/176821.html "DoT/DoH接入方法")
 
-<video src="https://chfs.owhs.cn:58443/chfs/shared/webdav/iOS-Set-Dns.mp4" controls="controls" width="592" height="1280">iOS使用加密DNS视频教程</video>
 
-<iframe src="https://ip.skk.moe/simple" style="width: 100%; border: 0"></iframe>
 
 <details>
 <summary><code><strong>赞助/sponsorship</strong></code></summary>
+<video src="https://chfs.owhs.cn:58443/chfs/shared/webdav/iOS-Set-Dns.mp4" controls="controls" width="592" height="1280">iOS使用加密DNS视频教程</video>
+
+<iframe src="https://ip.skk.moe/simple" style="width: 100%; border: 0"></iframe>
 <img width=30% src="https://img.owhs.cn:58443/i/2022/10/18/634debb1cc1a4.jpg" />
 <img width=30% src="https://img.owhs.cn:58443/i/2022/10/18/634debb12677e.png" />
 <img width=30% src="https://img.owhs.cn:58443/i/2022/07/15/62d11c2a6ab50.png" /><br/>
